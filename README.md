@@ -1,80 +1,61 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff41&height=180&section=header&text=&fontSize=0" width="100%"/>
 
-<table align="center">
-<tr border="none">
-<td width="50%" valign="middle">
+<div align="center">
 
-```
-_______________________________   __⠀⠀⠀⠀⠀⠀  
-___  __ \__  ____/__  ____/__  | / /⠀⠀⠀⠀⠀⠀⠀ 
-__  /_/ /_  __/  __  __/  __   |/ /⢶⣶⣒⣶⠦⣤⣀  
-_  _, _/_  /___  _  /___  _  /|  / ⠈⣟⠲⡌⠙⢦⠈⢧ 
-/_/ |_| /_____/  /_____/  /_/ |_/ ⠀⠀⣸⡴⢃⡠⠋⣠⠋ 
-           ⠀⠐⠀⠞⣱⠋⢰⠁⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠤⢖⣋⡥⢖⣫⠔⠋   
-            ⠈⠠⡀⠹⢤⣈⣙⠚⠶⠤⠤⠤⠴⠶⣒⣒⣚⣩⠭⢵⣒⣻⠭⢖⠏⠁⢀⣀    
-            ⠠⠀⠈⠓⠒⠦⠭⠭⠭⣭⠭⠭⠭⠭⠿⠓⠒⠛⠉⠉⠀⠀⣠⠏⠀⠀⠘⠞⠀   
-            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠀⠀⠀⠀⠀⠀⣀⡤⠞⠁⠀⣰⣆⠀     
-            ⠀⠀⠀⠀⠀⠘⠿⠀⠀⠀⠀⠀⠈⠉⠙⠒⠒⠛⠉⠁⠀⠀⠀⠉⢳⡞⠉⠀    
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root@reentryti:~$+whoami;Erico+-+Security+Engineer;Pentester+%7C+Blue+Team+%7C+Cloud;Always+learning...Always+hacking..." />
 
-</td>
-<td width="50%" valign="middle">
+</div>
 
-### `> whoami`
+---
 
-**Hi, I'm Erico** 👋
+<div align="center">
 
-Apprentice Security Engineer passionate about breaking things to make them stronger. Currently sharpening my skills in offensive security, network defense & cloud infrastructure.
+<pre>
+┌──(reentryti㉿kali)-[~]
+└─$ cat profile.txt
 
-`🔍 Pentesting` · `🛡️ Blue Team` · `☁️ Cloud Security`
+> Name: Erico
+> Role: Apprentice Security Engineer
+> Focus: Offensive Security / Blue Team / Cloud
+> Status: ACTIVE
 
-```
-root@reentryti:~$ cat interests.txt
+┌──(reentryti㉿kali)-[~]
+└─$ cat interests.txt
+
 > CTF Player
 > Bug Bounty Hunter
 > Open Source Contributor
 > Always learning, always hacking.
-```
+</pre>
 
-</td>
-</tr>
-</table>
+</div>
 
-<!-- ════════════════════ ARSENAL + STATS ════════════════════ -->
+---
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<h3> Arsenal</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,bash,c,rust,go,js,ts,react,nextjs,nodejs,docker,kubernetes,aws,azure,linux,kali,arch,nginx,postgres,mongodb,redis,git,github,vscode&perline=6" />
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Reentryti&theme=dark&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=8b949e&ring_color=00ff41" />
-<br><br>
-<img alt="Streak" src="https://streak-stats.demolab.com?user=Reentryti&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</td>
-</tr>
-</table>
-
-<!-- ════════════════════ FOOTER ════════════════════ -->
+##  Arsenal
 
 <div align="center">
 
-```
-[reentryti@kali]─[~]
-└──╼ $ echo "The quieter you become, the more you can hear."
-```
+<img src="https://skillicons.dev/icons?i=py,bash,c,rust,go,js,ts,react,nextjs,nodejs,docker,kubernetes,aws,azure,linux,kali,arch,nginx,postgres,mongodb,redis,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+<pre>
+┌──(reentryti㉿kali)-[~]
+└─$ echo "The quieter you become, the more you can hear."
+
+> listening...
+</pre>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Reentryti&color=00ff41&style=for-the-badge&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=Reentryti\&color=00ff41\&style=for-the-badge\&label=VISITORS)
 
 </div>
 
